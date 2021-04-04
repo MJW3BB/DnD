@@ -13,7 +13,7 @@ Lonk accepts and goes to collect supplies. Old man introduces himself as Travish
 
 As we are walking, we are ambushed by undead looking wolves. Upon being attacked the wolves bleed black ichor.
 
-After dealing with the wolves, Lonk and the old man (Dravish) find what appears to be a necromancer shrouded in darkness with a necklace of teeth (human and orc) The necromance calls Dravish's name. Lonk goes to attack but does not kill anyone. The necromance makes an attempt to enslave Lonk and make him apart of his personal army. The necromancer touches Lonk and paralyzes him (reduces health to 1 HP) Dravish steps in and gives Lonk a quest. To stop the spread of the darkness in the world. Dravish breaks the hold on Lonk by touching him, sperating the connection with the necromancer. As he does this, Lonk's tattos and eyes begin to emit a powerful blue light. Dravish opens a portal and throws him into it. Lonk blacks out...
+After dealing with the wolves, Lonk and the old man (Dravish) find what appears to be a necromancer shrouded in darkness with a necklace of teeth (human and orc) The necromancer calls Dravish's name. Lonk goes to attack but does not kill anyone. The necromancer makes an attempt to enslave Lonk and make him apart of his personal army. The necromancer touches Lonk and paralyzes him (reduces health to 1 HP) Dravish steps in and gives Lonk a quest. To stop the spread of the darkness in the world. Dravish breaks the hold on Lonk by touching him, seperating the connection with the necromancer. As he does this, Lonk's tattos and eyes begin to emit a powerful blue light. Dravish opens a portal and throws him into it. Lonk blacks out...
 
 ## To be continued in session 01. 
 

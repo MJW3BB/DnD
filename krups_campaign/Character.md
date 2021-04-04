@@ -1,17 +1,19 @@
-# Half-Orc
+# Lonk the Half-Orc
 Half-orcs’ grayish pigmentation, sloping foreheads, jutting jaws, prominent teeth, and towering builds make their orcish heritage plain for all to see.
 
 ## Racial Traits
-+2 Strength, +1 Constitution, Darkvision, Menacing, Relentless Endurance, Savage Attacks
+ - +2 Strength, +1 Constitution, Darkvision, Menacing, Relentless Endurance, Savage Attacks
 ### DarkVision
-You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+ - You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 ### Menacing
-You gain proficiency in the Intimidation skill.
+ - You gain proficiency in the Intimidation skill.
 ### Relentless Endurance
-When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.
+ - When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.
 ### Savage Attacks
-When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
-# Barbarian
+ - When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
+
+
+# Class: Barbarian
 Hit Die: d12
 Primary Ability: Strength
 Saves: Strength & Constitution 
@@ -86,34 +88,32 @@ While raging, you gain the following benefits if you aren’t wearing heavy armo
 ## Proficiencies Skills
 ### Skill 1 - Perception
 ### Skill 2 - Athletics
-
+#
 # Ability Scores
-Strength - 17
-Dexterity - 16
-Constitution - 15  
-Intelligence - 12
-Wisdom -  6
-Charisma - 10
+ - Strength - 17
+ - Dexterity - 16
+ - Constitution - 15  
+ - Intelligence - 12
+ - Wisdom -  6
+ - Charisma - 10
 
 # Background - Outlander
 You grew up in the wilds, far from civilization and the comforts of town and technology. You’ve witnessed the migration of herds larger than forests, survived weather more extreme than any city-dweller could comprehend, and enjoyed the solitude of being the only thinking creature for miles in any direction. The wilds are in your blood, whether you were a nomad, an explorer, a recluse, a hunter-gatherer, or even a marauder. Even in places where you don’t know the specific features of the terrain, you know the ways of the wild.
 
 ### Skill Proficencies - Performance
+ - Tools - Horn (ocarina)
+ - Languages - Elvish
+ - Wanderer: You have an excellent memory for maps and geography, and you can always recall the general layout of terrain, settlements, and other features around you. In addition, you can find food and fresh water for yourself and up to five other people each day, provided that the land offers berries, small game, water, and so forth.
 
-Tools - Horn (ocarina)
-Languages - Elvish
-Wanderer
-You have an excellent memory for maps and geography, and you can always recall the general layout of terrain, settlements, and other features around you. In addition, you can find food and fresh water for yourself and up to five other people each day, provided that the land offers berries, small game, water, and so forth.
-
-## Characteristics
-### Personality Traits
+# Characteristics
+## Personality Traits
 I place no stock in wealthy or well-mannered folk. Money and manners won’t save you from a hungry owlbear.
 I feel far more comfortable around animals than people.	
-### Ideals
+## Ideals
 Glory. I must earn glory in battle, for myself and my clan. (Any)
-### Bonds
+## Bonds
 I am the last of my tribe, and it is up to me to ensure their names enter legend.
-### Flaws
+## Flaws
 I am too enamored of ale, wine, and other intoxicants.
 
 ## Character Details
@@ -123,8 +123,8 @@ Lifestyle - Poor (1GP)
 
 ## Backstory
 ### Family
- Father (Human) - Duke
- Mother (Orc) - Derga
- Me (Half Orc) - Lonk
- Clan Name - Largashbur
+ - Father (Human) - Duke
+ - Mother (Orc) - Derga
+ - Me (Half Orc) - Lonk
+ - Clan Name - Largashbur
 

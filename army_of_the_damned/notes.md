@@ -71,3 +71,10 @@ bag of holding
 
 +10 gold 
 
+###  4/2/2021
+Scarlet 
+Blaire
+Enemy 1
+Enemy 2
+Eorland
+Nala
